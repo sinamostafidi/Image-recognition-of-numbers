@@ -1,1 +1,1 @@
-"# Image-recognition-of-numbers" 
+# Image recognition of numbers 
